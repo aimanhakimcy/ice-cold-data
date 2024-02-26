@@ -87,8 +87,8 @@
       "assist": 0,
       "yellow": 0,
       "red": 0,
-      "img": "assets/player/lupi-30.jpeg",
-      "imgnobg": "assets/player/lupi-30.png"
+      "img": "",
+      "imgnobg": ""
     },
     {
       "id": 6,
@@ -195,8 +195,8 @@
       "assist": 0,
       "yellow": 0,
       "red": 0,
-      "img": "assets/player/jo-21.jpg",
-      "imgnobg": "assets/player-no-bg/jo-21.png"
+      "img": "",
+      "imgnobg": ""
     },
     {
       "id": 12,
@@ -232,7 +232,7 @@
       "yellow": 0,
       "red": 0,
       "img": "assets/player/umar-23.jpeg",
-      "imgnobg": "assets/player-no-bg/umar-11.png"
+      "imgnobg": "assets/player-no-bg/umar-23.png"
     }
   ],
   "galleries": [
