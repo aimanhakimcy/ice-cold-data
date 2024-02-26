@@ -1,0 +1,189 @@
+{
+    "players": [
+      {
+        "id": 1,
+        "name": "Aiman Hakim",
+        "age": 24,
+        "dob": "5 August 2000",
+        "birth_place": "Selangor",
+        "weight": 60,
+        "height": 165,
+        "position": "Ala",
+        "number": 10,
+        "apps": 0,
+        "goal": 0,
+        "assist": 0,
+        "yellow": 0,
+        "red": 0,
+        "img": "assets/player/kimcy-8.JPG",
+        "imgnobg": "assets/player-no-bg/kimcy-8.png"
+      },
+      {
+        "id": 2,
+        "name": "Affif Farhan",
+        "age": 24,
+        "dob": "1 December 2000",
+        "birth_place": "Selangor",
+        "weight": 60,
+        "height": 165,
+        "position": "Fixo",
+        "number": 25,
+        "apps": 0,
+        "goal": 0,
+        "assist": 0,
+        "yellow": 0,
+        "red": 0,
+        "img": "assets/player/abim-25.JPG",
+        "imgnobg": "assets/player-no-bg/abim-25.png"
+      }
+    ],
+    "galleries": [
+      {
+        "id": 1,
+        "oppo": "Double 0 FC",
+        "date": "1st February 2024",
+        "location": "RKS SUBANG JAYA",
+        "imgfront": "assets/matchday/double-0/double-0-1.JPG",
+        "img": [
+          "assets/matchday/double-0/double-0-1.JPG",
+          "assets/matchday/double-0/double-0-2.JPG"
+        ]
+      },
+      {
+        "id": 2,
+        "oppo": "Oxygen FC",
+        "date": "2ND February 2024",
+        "location": "RKS SUBANG JAYA",
+        "imgfront": "assets/matchday/oxygen/oxy-1.JPG",
+        "img": [
+          "assets/matchday/oxygen/oxy-1.JPG",
+          "assets/matchday/oxygen/oxy-2.JPG"
+        ]
+      },
+      {
+        "id": 3,
+        "oppo": "Quest FC",
+        "date": "3RD February 2024",
+        "location": "RKS SUBANG JAYA",
+        "imgfront": "assets/matchday/quest/quest-1.jpg",
+        "img": [
+          "assets/matchday/quest/quest-1.jpg",
+          "assets/matchday/quest/quest-2.jpg"
+        ]
+      },
+      {
+        "id": 4,
+        "oppo": "selek FC",
+        "date": "4TH February 2024",
+        "location": "RKS SUBANG JAYA",
+        "imgfront": "assets/matchday/selek/selek-1.JPG",
+        "img": [
+          "assets/matchday/selek/selek-1.JPG",
+          "assets/matchday/selek/selek-2.JPG"
+        ]
+      }
+    ],
+    "fixtures": [
+      {
+        "id": 1,
+        "date": "1 January 2024",
+        "time": "22:00",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      },
+      {
+        "id": 2,
+        "date": "12 January 2024",
+        "time": "22:00",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      },
+      {
+        "id": 3,
+        "date": "24 January 2024",
+        "time": "22:00",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      },
+      {
+        "id": 4,
+        "date": "1 February 2024",
+        "time": "22:00",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      },
+      {
+        "id": 5,
+        "date": "2 February 2024",
+        "time": "22:00",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      },
+      {
+        "id": 6,
+        "date": "3 February 2024",
+        "time": "22:00",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      },
+      {
+        "id": 7,
+        "date": "4 February 2024",
+        "time": "22:00",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      }
+    ],
+    "results": [
+      {
+        "id": 1,
+        "date": "1 January 2024",
+        "scoreline": "3-0",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      },
+      {
+        "id": 2,
+        "date": "12 January 2024",
+        "scoreline": "2-0",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      },
+      {
+        "id": 3,
+        "date": "24 January 2024",
+        "scoreline": "5-0",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      },
+      {
+        "id": 4,
+        "date": "1 February 2024",
+        "scoreline": "9-0",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      },
+      {
+        "id": 5,
+        "date": "2 February 2024",
+        "scoreline": "3-0",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      },
+      {
+        "id": 6,
+        "date": "3 February 2024",
+        "scoreline": "4-3",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      },
+      {
+        "id": 7,
+        "date": "4 February 2024",
+        "scoreline": "7-1",
+        "opponame": "ICE COLD FC II",
+        "Oppoimg": "assets/oppo/ice-cold.png"
+      }
+    ]
+  }
+  
