@@ -233,6 +233,42 @@
       "red": 0,
       "img": "assets/player/umar-23.jpeg",
       "imgnobg": "assets/player-no-bg/umar-23.png"
+    },
+    {
+      "id": 13,
+      "name": "Murshid",
+      "age": 24,
+      "dob": "8 July 2000",
+      "birth_place": "Johor",
+      "weight": 58,
+      "height": 173,
+      "position": "Fixo",
+      "number": 57,
+      "apps": 0,
+      "goal": 0,
+      "assist": 0,
+      "yellow": 0,
+      "red": 0,
+      "img": "assets/player/murshid-57.jpeg",
+      "imgnobg": "assets/player-no-bg/murshid-57.png"
+    },
+    {
+      "id": 14,
+      "name": "Harith Danial",
+      "age": 24,
+      "dob": "2 September 2000",
+      "birth_place": "Johor",
+      "weight": 65,
+      "height": 177,
+      "position": "Ala",
+      "number": 92,
+      "apps": 0,
+      "goal": 0,
+      "assist": 0,
+      "yellow": 0,
+      "red": 0,
+      "img": "assets/player/rith-92.jpeg",
+      "imgnobg": "assets/player-no-bg/rith-92.png"
     }
   ],
   "galleries": [
